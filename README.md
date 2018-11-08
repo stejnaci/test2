@@ -34,3 +34,5 @@ The slider can be insterted like this: you create the control. The function fn s
 * `getValue:` the function called to transform the input of the slider into the value shown by showValue, default is `function(value) {return value;}`.
 * `increment:` wether or not there should be increment and decrement buttons next to the slider, default is `false`.
 * `syncSlider:` if set true, the value synchronizes slider's position, default is `false`.
+# test2
+# test2
